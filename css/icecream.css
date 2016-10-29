@@ -1,0 +1,37 @@
+body{
+  background-color: #f9f9f9;
+  font-family: 'Rubik', sans-serif;
+}
+nav{
+  height: 150px;
+}
+ul{
+  list-style: none;
+}
+.coming{
+    height: 100px;
+}
+#banner{
+  font-family: 'Gochi Hand', cursive;
+  margin-top: 50px;
+  color: white;
+}
+.pinky{
+  color: #e91e63;
+}
+.bluey{
+  color: #03a9f4;
+}
+#navbanner{
+    background-color: #03a9f4;
+    border-bottom: none;
+}
+
+.content{
+  background-color: white;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+#scheduling{
+  margin: 20px;
+}
