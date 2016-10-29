@@ -23,8 +23,9 @@ ul{
   color: #03a9f4;
 }
 #navbanner{
+    width: 100vw;
     background-color: #03a9f4;
-    border-bottom: none;
+    border: none;
 }
 
 .content{
